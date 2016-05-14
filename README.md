@@ -1,5 +1,5 @@
 # Bon-Begin
-test repository for the starting day
+Make something new for the starting day
 
 Hi everybody!
 
